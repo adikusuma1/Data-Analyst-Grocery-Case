@@ -20,7 +20,7 @@ This is a portfolio project to demonstrate my data analysis skills using SQL, Py
 - Visualize KPIs using Power BI.
 
 ## 📊 Dashboard Preview
-![Power BI Dashboard](images/powerbi_dashboard_screenshot.png)
+![Power BI Dashboard](image/PowerBI_Dashboard_Screenshot.png.png)
 
 ## 📌 Key Insights
 - Top 5 products contribute 40% of sales.
