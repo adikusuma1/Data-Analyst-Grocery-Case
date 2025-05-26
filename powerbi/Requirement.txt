@@ -1,0 +1,11 @@
+Grocery Analysis
+- Requirement Gathering/Business Requirement
+- Data Walkthrough
+- Data Cleaning / Quality Check
+- Data Modeling
+- Data Preprocessing
+- DAS Calculations
+- Dashboard Lay Outing
+- Charts Developments and Formating
+- Dashboard / Report Developments
+- Insights Generation
